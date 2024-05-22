@@ -18,10 +18,6 @@ Crea un nuovo array con la lista dei mammiferi.
 
 
 
-
-
-
-
 Snack4
 
 Crea un array di oggetti che rappresentano delle persone.
